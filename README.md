@@ -1,5 +1,5 @@
 ## ☄️ Comet Media Player
-
+The comet media player application is a simple space theme media player that can play various video and audio file formats. All the user has to do is click the "Open" to open the file eplorer and select whatever video or audio file that they would like to play. Once the file is selected the video or audio will begin to play and the name of the file will be displayed in the text box right above the "Open" button. In the case that an audio file is selected the screen will show an audio visualizer. The media can be paused with the pause/play button and the volume of the media can be adjusted with the volume slider. 
 ## ✨ Technologies
 - C#
 - GUI
